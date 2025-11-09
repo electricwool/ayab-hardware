@@ -19,11 +19,15 @@ only parts not available at the fab are power connectors and hirose connectors. 
 power connectors:
 
 These so-called "Custom" headers allegedly artisinally whittled by Brother engineers according to AYAB docs are actually JST V-series connectors.
-cut down to 5-pin and 4-pin
+cut down to 5-pin and 4-pin.
+
 2x RTB-1.5-6P,JST https://www.aliexpress.com/item/1005008477785335.html
 
 kh910 hirose connectors:
 
 1x https://www.mouser.com/ProductDetail/Hirose-Connector/HNC2-2.5P-3DS02?qs=gyfFsMMHMKzG6FQKazr3xQ%3D%3D
+
 1x https://www.mouser.com/ProductDetail/Hirose-Connector/HNC2-2.5P-8DS55?qs=gyfFsMMHMKyPvUaAz%25252BHWBw%253D%253D
+
 2x https://www.mouser.com/ProductDetail/Hirose-Connector/HNC2-2.5P-10DS55?qs=gyfFsMMHMKwBSYDtzLhaIA%253D%253D
+
