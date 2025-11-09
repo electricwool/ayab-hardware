@@ -34,3 +34,4 @@ kh910 hirose connectors:
 
 2x https://www.mouser.com/ProductDetail/Hirose-Connector/HNC2-2.5P-10DS55?qs=gyfFsMMHMKwBSYDtzLhaIA%253D%253D
 
+additionally if you wish to get rid of the dangerous old japanese appliance plug and 40 year old cable that came with the machine you may convert the machine to 12V by using a plug of your choice and 3D printing this plate. https://www.thingiverse.com/thing:7002037 it provides a convenient way to connect 12V to the ayab board unlike the current design that has the barrel jack needing to obstruct the needle bed.
