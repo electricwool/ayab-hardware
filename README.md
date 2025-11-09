@@ -4,12 +4,13 @@ solder pads left in place but parts are not selected for impractical and commonp
 
 Japanese caps. SMD not through hole because small through hole from quality brands are niche, expensive and arn't typically stocked by fabs.
 preference for "basic" parts that do not incur additional loading charges. Fabs keep the machines loaded with parts and charge additional fees per part when they need to manually load parts in to the parts placement machine. 
+basic red LEDs were out of stock so they have been replaced with blue LEDs and absurd resistor values like 10k series resistors changed accordingly for 5mA LEDs.
 
 when ordering your board select ENIG to avoid production failures.
 
 Why?
 
-It is free design software that permits rapid export to JLCPCB for the production of fully assembled boards including PCBA. total cost is about USD$50 per board when ordering 5 or more at a time that is about the same price as a DIY AYAB arduino shield kit being sold on etsy and elsewhere.
+It is free design software that permits rapid export to JLCPCB by persons with no knowledge of electronics for the production of fully assembled boards including PCBA. total cost is about USD$50 per board when ordering 5 or more at a time that is about the same price as a DIY AYAB arduino shield kit being sold on etsy and elsewhere.
 
 known bug: silkscreen has too many layers and is too complex to import so silkscreen layers appear solid white and can't be editted in EasyEDA. important parts have been simply labelled in plain text.
 
