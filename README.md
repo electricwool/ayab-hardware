@@ -1,4 +1,7 @@
 # AYAB Hardware
+
+Check the release page for the files. https://github.com/electricwool/ayab-hardware/releases/tag/ayab
+
 This is the KiCAD converted to EasyEDA Pro format with real world practical considerations for PCB manufacture and current BOM.
 solder pads left in place but parts are not selected for impractical and commonplace connectors such as 2.54mm headers that are of no use to anyone and parts that require cutting the case apart that nobody wants to do. tiny smd buttons are placed instead for firmware programming purposes.
 
