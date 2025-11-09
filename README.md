@@ -10,7 +10,7 @@ when ordering your board select ENIG to avoid production failures.
 
 Why?
 
-It is free design software that permits rapid export to JLCPCB by persons with no knowledge of electronics for the production of fully assembled boards including PCBA. total cost is about USD$50 per board when ordering 5 or more at a time that is about the same price as a DIY AYAB arduino shield kit being sold on etsy and elsewhere.
+It is free design software that permits rapid export to JLCPCB by persons with no knowledge of electronics for the production of fully assembled boards including PCBA. total cost is about USD$50 per board including shipping when ordering 5 or more at a time and economy shipping that is about the same price as a DIY AYAB arduino shield kit being sold on etsy and elsewhere.
 
 known bug: silkscreen has too many layers and is too complex to import so silkscreen layers appear solid white and can't be editted in EasyEDA. important parts have been simply labelled in plain text.
 
