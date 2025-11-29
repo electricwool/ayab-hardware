@@ -4,3 +4,4 @@ As the purpose of migrating to ESP32 has been to permit networked features it se
 
 
 <img width="1192" height="1118" alt="image" src="https://github.com/user-attachments/assets/d074da21-c6e1-4762-ad29-f51628c8f8de" />
+![ESP32-S3_DevKitC-1_pinlayout](https://github.com/user-attachments/assets/a28b7903-b89a-4ac7-960a-84c81ee74c7c)
