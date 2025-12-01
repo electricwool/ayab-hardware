@@ -1,6 +1,6 @@
 adapter board for connecting the arduino nano(3.3v)
 
-various boards have identical pinout and 3.3v regulator on the obverse side:
+various boards have identical pinout and 3.3v regulator on the obverse side or 3.3v logic and a 3.3V supply provided by the usb to serial chip. The serial chip is limitted to about 40mA that is enough to power the chip and one bright LED or the control circuitry. The chips use about 50µA quiescent current each and fractions of a mA per lane when active:
 
 -Nano 33 BLE (Nordic nRF52840)
 
