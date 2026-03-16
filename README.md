@@ -2,6 +2,8 @@ A minimal  ESP32-AYAB shield design containing all essential parts. designed to 
 
 As the purpose of migrating to ESP32 has been to permit networked features it seems necessary to move beyond the stock s3 and use the octal flash and psram models needed to serve an application. These pin conflicts render all of the removed parts unusable due to lack of IO. knitting machines come with a 12v and 5v rail already so the power supply is also superfluous. In order to enable development only the core features of the esp32 board are preserved. connectors are to be joined to the board via modular cablemaking or sub boards. This means that future revisions and prototying of the board do not incur repeated costs of items like a buzzer and interfacing circuitry but only plugs and a roll of wire.
 
+further investigation reveals that the original sensor boards are capable of operating down to VCC= 3.0V. with 3.3V supply the hall sensors and rotary encoder operates effectively. This greatly reduces the complexity and cost of the board. the comparators and external ADC can be eliminated by using the coprocessor: ULP(esp32) or PIO(rp2350/2040) greatly reducing cost. These are not supported in the arduino framework as they use an extremely old version of the development environment and would require a complete rewrite. the rp2350 has enough IO to support eliminating the GPIO expander. this reduces complexity and size.
+
 
 <img width="1192" height="1118" alt="image" src="https://github.com/user-attachments/assets/d074da21-c6e1-4762-ad29-f51628c8f8de" />
 <img width="1192" height="1118" alt="image" src="https://github.com/user-attachments/assets/a28b7903-b89a-4ac7-960a-84c81ee74c7c" />
